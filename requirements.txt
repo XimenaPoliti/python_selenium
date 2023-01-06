@@ -1,0 +1,5 @@
+ddt==1.6.0
+html-testRunner==1.2.1
+prettytable==3.5.0
+pyunitreport==0.1.4
+selenium==4.7.2
